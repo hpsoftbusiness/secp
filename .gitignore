@@ -34,3 +34,4 @@ composer.phar
 phpmd.phar
 phpunit*.phar
 ###< local_phars ###
+/nbproject/private/
